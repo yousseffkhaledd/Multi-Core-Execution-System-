@@ -1,0 +1,10 @@
+c = 3
+d = 6
+z = c + d
+print z
+x = c * d
+print x
+y = c / d
+print y
+p = c - d
+print p
